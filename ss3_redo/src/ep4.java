@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class BT4 {
+public class ep4 {
     record User(String userName, String email, String status) {}
 
     public static void main(String[] args) {

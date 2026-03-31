@@ -19,6 +19,8 @@ public class ep2 {
 
         PasswordValidator validator2 = password -> password.length() >= 8;
 
+        PasswordValidator validator3 = pw -> pw.length() >= 8;
+
         String testPassword = "abc123";
         String testPassword2 = "abc123213123123";
 

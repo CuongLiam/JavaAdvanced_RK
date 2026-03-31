@@ -8,7 +8,8 @@ public class BT2 {
         users.add(new User("Alice", "alice@gmail.com", "active"));
         users.add(new User("Bob", "bob@example.com", "inactive"));
 
-        users.stream().filter(user -> user.email().endsWith("@gmail.com")).forEach(user -> System.out.println(user.userName()));
+        users.stream().filter(user -> user.email().endsWith("@gmail.com"))
+                    .forEach(user -> System.out.println(user.userName()));
     }
 
 }

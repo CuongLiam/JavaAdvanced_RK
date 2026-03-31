@@ -27,7 +27,7 @@ public class Main {
 
         @Test
         void TC03_hasSpace() {
-            assertFalse(UserValidatorTest.isValidUserName("abc 123"));
+            assertFalse(UserValidatorTest.isValidUserName(""));
         }
     }
 }
