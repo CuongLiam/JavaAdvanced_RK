@@ -1,61 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="00c6f01c-bcfd-4eaa-aa1f-e5bf9b6f193c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BT1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/src/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/src/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/src/OrderCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/src/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/src/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT1/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/src/DiscountStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/src/FixedDiscount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/src/HolidayDiscount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/src/NoDiscount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2/src/PercentageDiscount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/src/CODPayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/src/CODPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/src/CardPayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/src/CreditCardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/src/EWalletPayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/src/MomoPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/src/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT3/src/PaymentProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/.idea/SweepConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/src/DatabaseOrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/src/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/src/FileOrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/src/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/src/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/src/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/src/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/src/SMSNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mindmap_Java_Advanced_Session07.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,36 +15,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "CuongLiam"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CuongLiam&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:CuongLiam/JavaAdvanced_RK.git",
-    "accountId": "cd06c42a-a5cb-4aea-9c05-cacc04149fb2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:CuongLiam/JavaAdvanced_RK.git&quot;,
+    &quot;accountId&quot;: &quot;cd06c42a-a5cb-4aea-9c05-cacc04149fb2&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3BchYScX9w8tf9UuO9cgVevGe4A" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/class things/java_advanced/ss7/src",
-    "onboarding.tips.debug.path": "D:/class things/java_advanced/ss7/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/class things/java_advanced/ss7/src&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/class things/java_advanced/ss7/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\class things\java_advanced\ss7\src" />
